@@ -2,7 +2,7 @@
 
 function App() {
   return (
- <div>Finally, I am here</div>
+ <div>We Are Ruby!</div>
   );
 }
 
